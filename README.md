@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennynoh
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Data Analytics and full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
     - Email: jae.eunjenny.noh@gmail.com
